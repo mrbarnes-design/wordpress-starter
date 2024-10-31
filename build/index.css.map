@@ -1,0 +1,1 @@
+{"version":3,"file":"index.css","mappings":";;;AAAA;IACI,sBAAsB;AAC1B,C","sources":["webpack://olm/./css/base/baseline.scss"],"sourcesContent":["body {\r\n    color: rgb(23, 0, 128);\r\n}"],"names":[],"sourceRoot":""}
